@@ -1,4 +1,3 @@
-
 import React from 'react';
 import { NavLink } from 'react-router-dom';
 
@@ -12,6 +11,9 @@ function Navbar() {
                 >
                     ABOUT ME
                 </NavLink>
+                <div className="navbar__name">
+                    MARIAM KATILE
+                </div>
             </div>
             <div className='topnav-right'>
                 <NavLink
