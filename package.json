@@ -1,9 +1,13 @@
 {
   "dependencies": {
+    "bootstrap": "^5.3.3",
     "denv": "^1.0.4",
+    "emailjs-com": "^3.2.0",
     "gh-pages": "^6.1.1",
     "react": "^18.3.1",
+    "react-bootstrap": "^2.10.4",
     "react-dom": "^18.3.1",
+    "react-icons": "^5.2.1",
     "react-router-dom": "^6.26.0",
     "react-scripts": "^5.0.1"
   },
@@ -20,6 +24,9 @@
     "last 1 firefox version",
     "last 1 safari version"
   ],
+  "eslintConfig": {
+    "extends": "react-app"
+  },
   "browserslist": {
     "production": [
       ">0.2%",
@@ -33,6 +40,8 @@
     ]
   },
   "devDependencies": {
-    "@babel/plugin-proposal-private-property-in-object": "^7.21.11"
+    "@babel/plugin-proposal-private-property-in-object": "^7.21.11",
+    "@testing-library/react": "^16.0.0",
+    "gh-pages": "^3.1.0"
   }
 }
