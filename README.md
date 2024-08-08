@@ -37,6 +37,7 @@ THEN I am presented with text or icon links to the developer’s GitHub and Link
 
 The app has been deployed on Netlify, [link](https://66b46cc69cf946adf404d77b--react-porfolio-app.netlify.app/#/AboutMe)
 
+## Mock up
 
-[screenrecord](assets/screenrecord..mp4)
-[image](assets/appscreenshot.png)
+![screenrecord](assets/screenrecord..mp4)
+![Preject Screenshot](assets/appscreenshot.png)
