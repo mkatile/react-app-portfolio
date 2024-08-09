@@ -39,6 +39,6 @@ The app has been deployed on Netlify, [link](https://66b46cc69cf946adf404d77b--r
 
 ## Screen recording
 
-![Screen Record](https://drive.google.com/file/d/1yaOolmY5hPRx7rqhC7OLJbqrRthqk_KR/view?usp=sharing)
+[Screen Record](https://drive.google.com/file/d/1yaOolmY5hPRx7rqhC7OLJbqrRthqk_KR/view?usp=sharing)
 
 
