@@ -43,6 +43,6 @@ The app has been deployed on Netlify, [link](https://66b46cc69cf946adf404d77b--r
 
 ### Screen Recording
 <video width="320" height="240" controls>
-  <source src="assets/screenrecord.mp4" type="video/mp4">
+  <source src="%PUBLIC_URL%/screenrecord.mp4" type="video/mp4">
   Your browser does not support the video tag.
 </video>
