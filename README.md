@@ -37,12 +37,8 @@ THEN I am presented with text or icon links to the developer’s GitHub and Link
 
 The app has been deployed on Netlify, [link](https://66b46cc69cf946adf404d77b--react-porfolio-app.netlify.app/#/AboutMe)
 
-## Mock up
+## Screen recording
 
-[Screen Record](assets/screenrecord.mp4)
+![Screen Record](https://drive.google.com/file/d/1yaOolmY5hPRx7rqhC7OLJbqrRthqk_KR/view?usp=sharing)
 
-### Screen Recording
-<video width="320" height="240" controls>
-  <source src="%PUBLIC_URL%/screenrecord.mp4" type="video/mp4">
-  Your browser does not support the video tag.
-</video>
+
